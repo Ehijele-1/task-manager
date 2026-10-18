@@ -96,6 +96,7 @@ button {
     border-radius: 12px;
     background: linear-gradient(180deg, #17101b, var(--surface));
     border: 1px solid rgba(255,255,255,0.03);
+    margin: 20px;
 }
 
 .task .task-text {
